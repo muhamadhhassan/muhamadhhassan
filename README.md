@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/muhamadhhassan" target="blank"><img src="https://img.shields.io/twitter/follow/muhamadhhassan?logo=twitter&style=for-the-badge" alt="muhamadhhassan" /></a> </p>
 
+- 🔭 I’m currently working on **a new package to create integrations between Laravel apps and Mattermost**
+
+- 🌱 I’m currently learning **Go Programming Language**
+
+- 👯 I’m looking to collaborate on **ant package that will help Laravel community**
+
+- 📝 I regularly write articles on [https://muhamadhhassan.me/](https://muhamadhhassan.me/)
+
+- 💬 Ask me about **PHP, Laravel and MySQL**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
