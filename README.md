@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 <h3 align="center">Senior Backend Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadhhassan&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadhhassan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/muhamadhhassan" target="blank"><img src="https://img.shields.io/twitter/follow/muhamadhhassan?logo=twitter&style=for-the-badge" alt="muhamadhhassan" /></a> </p>
-
 - 🔭 I’m currently working on **a new package to create integrations between Laravel apps and Mattermost**
 
 - 🌱 I’m currently learning **Go Programming Language**
