@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
-<h3 align="center">Senior Backend Software Engineer @ [Robusta Studio](https://github.com/RobustaStudio)</h3>
+<h3 align="center">Senior Backend Software Engineer <a href="https://github.com/RobustaStudio">@Robusta Studio</a></h3>
 
 - 🔭 I’m currently working on **a new package to create integrations between Laravel apps and Mattermost**
 
