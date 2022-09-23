@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Sending Laravel Logs to Mattermost Channels](https://muhamadhhassan.me/sending-laravel-logs-to-mattermost-channels)
 - [Preventing User Enumeration Attack in Laravel Apps](https://muhamadhhassan.me/preventing-user-enumeration-attack-in-laravel-apps)
 - [Adding PHPUnit Test Log and Coverage to GitLab CI/CD Pipeline](https://muhamadhhassan.me/adding-phpunit-test-log-and-coverage-to-gitlab-cicd-pipeline)
 - [Laravel Static Code Analysis with PHPStan](https://muhamadhhassan.me/laravel-static-code-analysis-with-phpstan)
