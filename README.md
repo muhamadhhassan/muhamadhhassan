@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Unique Identifiers as Primary Key in MySQL](https://muhamadhhassan.me/using-unique-identifiers-as-primary-key-in-mysql)
 - [Sending Laravel Logs to Mattermost Channels](https://muhamadhhassan.me/sending-laravel-logs-to-mattermost-channels)
 - [Preventing User Enumeration Attack in Laravel Apps](https://muhamadhhassan.me/preventing-user-enumeration-attack-in-laravel-apps)
 - [Adding PHPUnit Test Log and Coverage to GitLab CI/CD Pipeline](https://muhamadhhassan.me/adding-phpunit-test-log-and-coverage-to-gitlab-cicd-pipeline)
